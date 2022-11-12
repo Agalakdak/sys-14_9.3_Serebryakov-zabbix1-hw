@@ -30,7 +30,9 @@ ok
 
 Сохраните в Git скриншот страницы хостов где будут видны привязки шаблонов с названием “Задание 2-3”. Хосты должны иметь зелёный статус подключения
 ---
-![Задание 2 и 3](./img/Zabbix_q2-3.png)`
+
+![Задание 2 и 3](./img/Zabbix_q2-3.png)
+
 ---
 ---
 
@@ -62,9 +64,12 @@ ok
 ---
 
 
-![Карта сети + настройка триггера](./img/Zabbix_q5.png)`
-![Выключаем агента на serebryakovra-1](./img/Zabbix_q5.2.png)`
+![Карта сети + настройка триггера](./img/Zabbix_q5.png)
+
+![Выключаем агента на serebryakovra-1](./img/Zabbix_q5.2.png)
+
 Кстати, сначала я думал, что ничего не работает, начал копать в интернете, а потом увидел, что там должно пройти 3 минуты =)
+
 ![Изменения на карте](./img/Zabbix_q5.2.png)`
 ---
 ---
@@ -80,9 +85,12 @@ ok
 ---
 
 
-![UserParameter, код скриптаб тест его работоспособности](./img/Zabbix_q6_code_of_custom_script.png)`
-![Проверка работы скрипта от zabbix-get](./img/Zabbix_q6_test_custom_script.png)`
-![Результат работы скрипта](./img/Zabbix_q6_good_word_of_custom_script)`
+![UserParameter, код скриптаб тест его работоспособности](./img/Zabbix_q6_code_of_custom_script.png)
+
+![Проверка работы скрипта от zabbix-get](./img/Zabbix_q6_test_custom_script.png)
+
+![Результат работы скрипта](./img/Zabbix_q6_good_word_of_custom_script)
+
 ---
 ---
 
@@ -98,6 +106,7 @@ ok
 
 
 ![Метрики получаемые из python скрипта](./img/Zabbix_q7_good_word_of_custom_py_script.png)
+
 ---
 ---
 
@@ -109,8 +118,11 @@ ok
 ---
 
 ![(Пустой список хостов)](./img/Zabbix_q8_no_hosts.png)
+
 ![Список хостов после автообнаружения](./img/Zabbix_q8_hosts.png)
+
 ![Применеие метрик](./img/Zabbix_q8_my_metric_host.png)
+
 ---
 ---
 
