@@ -89,7 +89,7 @@ ok
 
 ![Проверка работы скрипта от zabbix-get](./img/Zabbix_q6_test_custom_script.png)
 
-![Результат работы скрипта](./img/Zabbix_q6_good_word_of_custom_script)
+![Результат работы скрипта](./img/Zabbix_q6_good_work_of_custom_script.png)
 
 ---
 ---
